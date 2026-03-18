@@ -17,8 +17,8 @@ link() {
 link bash/.bashrc ~/.bashrc
 link git/.gitconfig ~/.gitconfig
 link i3/config ~/.config/i3/config
-link nvim/ ~/.config/nvim/
 link vscode/settings.json ~/.config/Code/User/settings.json
-link vscode/keybindins.json ~/.config/Code/User/keybindins.json
+link vscode/keybindings.json ~/.config/Code/User/keybindings.json
+# link nvim/ ~/.config/nvim/
 
 echo "Dotfiles instalados!"
