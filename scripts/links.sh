@@ -15,7 +15,6 @@ link() {
 }
 
 link bash/.bashrc ~/.bashrc
-link git/.gitconfig ~/.gitconfig
 link i3/config ~/.config/i3/config
 link vscode/settings.json ~/.config/Code/User/settings.json
 link vscode/keybindings.json ~/.config/Code/User/keybindings.json
