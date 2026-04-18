@@ -1,0 +1,9 @@
+backend = "glx";
+shadow = true;
+shadow-radius = 12;
+shadow-offset-x = -12;
+shadow-offset-y = -12;
+shadow-opacity = 0.4;
+
+# Cantos arredondados (se sua versão do picom suportar)
+corner-radius = 8;

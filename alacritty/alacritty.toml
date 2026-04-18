@@ -1,0 +1,9 @@
+general.import = [
+    "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window.padding]
+x = 5
+
+[window]
+decorations = "full" # Garante que o Alacritty aceite as decorações do sistema
