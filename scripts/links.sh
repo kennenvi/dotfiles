@@ -18,9 +18,9 @@ link bash/.bashrc ~/.bashrc
 link i3/config ~/.config/i3/config
 link vscode/settings.json ~/.config/Code/User/settings.json
 link vscode/keybindings.json ~/.config/Code/User/keybindings.json
-link nvim/ ~/.config/
-link alacritty/ ~/.config/
-link picom/ ~/.config/
-link rofi/ ~/.config/
+link nvim ~/.config/nvim
+link alacritty ~/.config/alacritty
+link picom ~/.config/picom
+link rofi ~/.config/rofi
 
 echo "Dotfiles instalados!"
