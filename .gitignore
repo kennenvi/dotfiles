@@ -1,0 +1,2 @@
+# Ignore plugins tmux e tmp
+tmux/**/plugins/

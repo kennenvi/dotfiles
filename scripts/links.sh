@@ -22,5 +22,7 @@ link nvim ~/.config/nvim
 link alacritty ~/.config/alacritty
 link picom ~/.config/picom
 link rofi ~/.config/rofi
+link tmux/tmux ~/.config/tmux
+link tmux/.tmux ~/.tmux
 
 echo "Dotfiles instalados!"
