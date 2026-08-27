@@ -18,3 +18,8 @@ x = 5
 
 [window]
 decorations = "full" # Garante que o Alacritty aceite as decorações do sistema
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Shift"
+chars = "\u001B\r"

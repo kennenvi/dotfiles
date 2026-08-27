@@ -269,5 +269,3 @@ exec --no-startup-id --always picom -f
 exec_always --no-startup-id gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-dark'
 exec_always --no-startup-id gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
-# Agente o Authentication KDE
-exec --no-startup-id /usr/libexec/kf6/polkit-kde-authentication-agent-1 &

@@ -24,5 +24,6 @@ link picom ~/.config/picom
 link rofi ~/.config/rofi
 link tmux/tmux ~/.config/tmux
 link tmux/.tmux ~/.tmux
+link kde/kglobalshortcutsrc ~/.config/kglobalshortcutsrc
 
 echo "Dotfiles instalados!"
